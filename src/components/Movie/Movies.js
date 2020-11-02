@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Items from '../FilmList'
-
 import MovieService from '../../services/MovieService';
 
 export default class Movies extends Component {
@@ -18,6 +17,7 @@ export default class Movies extends Component {
 
     render() {
         return (
+                
             <div className="container-fluid" style={{marginLeft: '-15px'}}>
                 <div className="d-flex flex-row">                    
                     <div className="col-sm-12">
@@ -27,7 +27,6 @@ export default class Movies extends Component {
                     </div>
                 </div>
             </div>
-          
         );
     }
 }

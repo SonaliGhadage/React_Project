@@ -11,6 +11,7 @@
     "react-css-dropdown": "^1.1.2",
     "react-dom": "^16.13.1",
     "react-dropdown-select": "^4.5.1",
+    "react-js-pagination": "^3.0.3",
     "react-redux": "^7.2.1",
     "react-scripts": "3.4.3",
     "redux": "^4.0.5"
